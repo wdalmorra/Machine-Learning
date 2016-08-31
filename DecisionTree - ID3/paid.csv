@@ -1,0 +1,11 @@
+Friend,Years Known,Own Home?,Occupation,Paid?
+Friend 1,Greater than 5,Yes,Sales,true
+Friend 2,Greater than 5,No,Engineer,false
+Friend 3,Greater than 5,Yes,Engineer,true
+Friend 4,Between 1 and 5,No,Engineer,true
+Friend 5,Between 1 and 5,Yes,Sales,false
+Friend 6,Between 1 and 5,Yes,Student,false
+Friend 7,Less than 1,Yes,Engineer,false
+Friend 8,Less than 1,No,Sales,false
+Friend 9,Between 1 and 5,Yes,Engineer,true
+Friend 10,Greater than 5,Yes,Engineer,true

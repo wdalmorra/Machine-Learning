@@ -1,0 +1,9 @@
+NOME,ESCOLARIDADE,IDADE,RICO
+Alva,Mestrado,>30,Sim
+Amanda,Doutorado,<=30,Sim
+Ana,Mestrado,<=30,Não
+Eduardo,Doutorado,>30,Sim
+Inês,Graduação,<=30,Não
+Joaquim,Graduação,>30,Não
+Maria,Mestrado,>30,Sim
+Raphael,Mestrado,<=30,Não
